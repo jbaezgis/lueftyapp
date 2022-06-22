@@ -1,4 +1,4 @@
-@section('title', __('Home'))
+@section('title', __('Current Offers'))
 @section('description', 'Best Private Transfers in the DR!')
 @section('keywords', 'Dominican Shuttles, Private Transfers, Airport Pickup, Tourist, Transfers, Airport, Dominican, Tourism, Beach, Hotel, Private, Shuttle', 'Safety')
 @section('og-image', asset('images/image-cover.png'))
