@@ -4,14 +4,13 @@ namespace App\Http\Livewire;
 
 use Livewire\Component;
 
-class Home extends Component
+class AcceptedOffers extends Component
 {
-
     public $modal = false;
 
     public function render()
     {
-        return view('livewire.home')->layout('layouts.guest');
+        return view('livewire.accepted-offers')->layout('layouts.guest');
     }
 
     public function openModal()
