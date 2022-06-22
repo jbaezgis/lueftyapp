@@ -1,0 +1,19 @@
+{
+    "FROM - PICK UP LOCATION" : "DESDE - LUGAR DE RECOGIDA",
+    "TO - DROP OFF LOCATION" : "HASTA - LUGAR DE LLEGADA",
+    "Select location" : "Seleccionar ubicación",
+    "Arrival Date" : "Fecha de llegada",
+    "Passengers" : "Pasajeros",
+    "Vehicle Size" : "Tamaño del Vehículo",
+    "Driving Time" : "Tiempo Conducción",
+    "One Way" : "Ida",
+    "Round Trip" : "Ida y Vuelva",
+    "PRIVATE TRANSFER SERVICES" : "SERVICIOS DE TRASLADOS PRIVADOS",
+    "CERTIFIED EXCELLENT!" : "EXCELENTE CERTIFICADO!",
+    "YEARS" : "AÑOS",
+    "serving tourist, 100% price guarantee" : "al servicio del turista, 100% precio garantizado",
+    "Dominican Shuttles has been serving the tourist industry in the Dominican Republic since 2010. We are proud of our exceptional safety record and our highly acclaimed services." : "Dominican Shuttles ha estado sirviendo a la industria turística en la República Dominicana desde 2010. Estamos orgullosos de nuestro historial de seguridad excepcional y nuestros servicios altamente aclamados.",
+    "Airport Pickup/Drop Off" : "Recogida/Regreso al Aeropuerto", 
+    "Dominican Shuttles will pick you up, drop you off, or set up a round trip airport transfer." : "Dominican Shuttles lo recogerá, lo dejará o programará un traslado de ida y vuelta al aeropuerto."
+    
+}
