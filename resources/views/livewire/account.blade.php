@@ -1,9 +1,7 @@
 <div>
 
     <div class="bg-white h-full w-full overflow-y-auto">
-        <div class="bg-blue-600 px-5 py-4 text-white">
-            <x-jet-application-logo/>
-        </div>
+
         <div class="px-5 pt-6 pb-20">
             <div class="text-center text-2xl text-gray-600">Yoel Baez</div>
             <div class="flex gap-4 justify-center">
