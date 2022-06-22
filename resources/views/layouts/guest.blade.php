@@ -18,7 +18,10 @@
         @livewireStyles
     </head>
     <body>
-        <div class="font-sans text-gray-900 antialiased">
+        <div class="bg-blue-600 px-5 py-4 text-white fixed top-0 w-full">
+            <x-jet-application-logo/>
+        </div>
+        <div class="font-sans text-gray-900 antialiased pt-10">
             {{ $slot }}
         </div>
         <x-mobile-menu/>
