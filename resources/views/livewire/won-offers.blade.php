@@ -1,5 +1,7 @@
 <div>
-
+    @if($modal)
+        @include('livewire.filters-modal')
+    @endif
     <div class="bg-white h-full w-full overflow-y-auto">
         <div class="bg-blue-600 px-5 py-4 text-white">
             <x-jet-application-logo/>
@@ -79,11 +81,5 @@
 
         </div>
     </div>
-    
-    
-    <x-mobile-menu/>
-    @if($modal)
-        @include('livewire.filters-modal')
-    @endif
     
 </div>

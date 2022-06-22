@@ -84,7 +84,4 @@
         </div>
     </div>
     
-    
-    <x-mobile-menu/>
-    
 </div>

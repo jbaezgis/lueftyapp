@@ -1,4 +1,4 @@
-<div class="bg-white absolute bottom-0 w-full border-t border-gray-200 flex">
+<div class="bg-white fixed bottom-0 w-full border-t border-gray-200 flex">
     <a href="{{ url('/') }}" class="flex flex-grow items-center justify-center p-2 {{ request()->is('/') ? 'text-blue-500' : 'text-gray-500' }}  hover:text-blue-500">
         <div class="text-center">
             <div class="flex justify-center mb-2">
